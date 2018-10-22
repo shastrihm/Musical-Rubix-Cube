@@ -1,4 +1,6 @@
-A while ago, I watched a video (https://www.youtube.com/watch?v=FW2Hvs5WaRY) that illuminated a neat connection between Rubix Cubes and musical notes thanks to Group Theory. 
+# Chord Progressions on the 3x3 Rubix Cube
+
+A while ago, I watched a [video](https://www.youtube.com/watch?v=FW2Hvs5WaRY) that illuminated a neat connection between Rubix Cubes and musical notes thanks to Group Theory. 
 
 The idea is that permutations of a Rubix Cube form a group in a similar way to notes in a chord. By assigning each solved face a harmonious chord (each square in the face is a note in 
 the chord), a solution to the Rubix Cube can be expressed as a chord progression that slowly ascends from disharmony to harmony.  
